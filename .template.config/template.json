@@ -1,0 +1,15 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Mostly Kenny",
+    "classifications": ["Console"],
+    "identity": "Problem.Name",
+    "name": "Mayvue Problem Template",
+    "description": "Template for coding challenges",
+    "shortName":"MayvueProblemTemplate",
+    "sourceName": "Problem.Name",
+    "tags": {
+        "language": "C#",
+        "type": "solution"
+    },
+    "preferNameDirectory": true
+}
